@@ -1,1 +1,2 @@
-<h1>OpenVINO Object Detection Quantization</h1>
+<h1 align = 'center'>OpenVINO Object Detection Quantization</h1>
+
